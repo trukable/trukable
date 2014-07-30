@@ -1,6 +1,6 @@
-# Project Name
+# Trukable
 
-> Pithy project description
+> Trukable does things.
 
 ## Team
 
